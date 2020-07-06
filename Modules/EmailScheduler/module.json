@@ -1,0 +1,14 @@
+{
+    "name": "EmailScheduler",
+    "alias": "emailscheduler",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\EmailScheduler\\Providers\\EmailSchedulerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

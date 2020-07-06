@@ -1,0 +1,101 @@
+.content-header>h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.content p{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.content a.download-link{
+    width: 120px;
+    display: block;
+}
+
+.content a.download-link img{
+    width: 100%;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #fff;
+    border-color: #000;
+    padding: 2px 20px;
+    color: #000;
+    border-width: 2px;
+}
+
+
+.user-panel>.info {
+    padding: 5px 5px 5px 15px;
+    line-height: 1;
+    position: absolute;
+    left: 55px;
+    top: 0px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+/* quill js styles*/
+.quill-wrap {
+  max-width:900px;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+}
+.info {
+  text-align:center;
+  margin-top:20px;
+}
+.quill-wrap .ql-active {
+  border: 1px solid #ccc !important;
+  border-radius:4px;
+}
+.quill-wrap button, .quill-wrap .ql-picker {
+  margin-right:2px
+}
+#editor {
+  height: 275px;
+  background-color: #fff;
+}
+
+.ql-toolbar.ql-snow{
+  background-color: #fff;    
+}
+
+.ql-editor p{
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.ql-snow .ql-tooltip{
+    left: 0px !important;
+    top: 201px;
+}
+
+/* end of quill js styles*/
+
+
+
+
+.navbar a.log-out-btn {
+    position: absolute;
+    right: 0px;
+    top: 1px;
+}
+
+
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #000000;
+}
+
+
+.skin-blue .sidebar-menu>li.header {
+    color: #ffffff;    
+}
